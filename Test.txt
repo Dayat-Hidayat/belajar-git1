@@ -9,4 +9,5 @@ test push dari kolaborator
 test mengubah branch staging
 
 test compare
- main
+
+test compare 2
